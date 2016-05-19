@@ -1,0 +1,23 @@
+
+body {
+	background: #66aaee url("img/GOPR6673.jpg") no-repeat fixed;
+}
+h1{
+	font-size: 50px;
+	margin-left: 500px;
+	margin-top: 20px;
+}
+#box {
+	margin-left: 350px;
+	margin-top: 200px;
+}
+#input{
+	font-size: 50px;
+}
+#button{
+	margin-left: 550px;
+	margin-top: 50px;
+}
+#run{
+	font-size: 40px;
+}
